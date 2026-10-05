@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "seo-dashboard-ai-kit",
+  "version": "0.1.0",
+  "description": "Analyse your sites' real SEO data (Search Console, GA4, Google Ads) from the GSC Dashboard and turn it into an implementation plan.",
+  "owner": {
+    "name": "Loc Nguyen"
+  },
+  "plugins": [
+    {
+      "name": "seo-dashboard",
+      "description": "GSC Dashboard MCP connection plus SEO analysis skills: diagnose traffic changes, find opportunities, plan and implement fixes, report.",
+      "version": "0.1.0",
+      "source": "./plugins/seo-dashboard",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gsc-dashboard": {
+      "type": "http",
+      "url": "https://tool.nguyenvietloc.com/api/mcp"
+    }
+  }
+}
