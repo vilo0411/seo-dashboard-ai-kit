@@ -1,6 +1,6 @@
 {
   "name": "seo-dashboard",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "GSC Dashboard MCP connection plus SEO analysis skills: diagnose traffic changes, find opportunities, plan and implement fixes, report.",
   "author": {
     "name": "Loc Nguyen"

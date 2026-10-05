@@ -212,9 +212,9 @@ Trên Claude.ai, 6 prompt của MCP đóng vai trò tương đương các lệnh
 
 | Giai đoạn | Nội dung | Trạng thái |
 |---|---|---|
-| A | Repo, plugin, MCP OAuth, `seodash-core`, README/INSTALL, Action đóng gói zip | đang làm |
-| B | `seodash-diagnose`, `seodash-opportunities`, `seodash-roadmap` + lệnh tắt | tiếp theo |
-| C | `seodash-content`, `seodash-report`, `seodash-measure` | |
+| A | Repo, plugin, MCP OAuth, `seodash-core`, README/INSTALL, Action đóng gói zip | xong (v0.1.0) |
+| B | `seodash-diagnose`, `seodash-opportunities`, `seodash-roadmap` + `/seo-why`, `/seo-wins`, `/seo-plan` | xong (v0.2.0) |
+| C | `seodash-content`, `seodash-report`, `seodash-measure` | tiếp theo |
 | D | `seodash-implement`, `seodash-portfolio`, `seodash-ai-search` | |
 | E | Bổ sung MCP: `get_portfolio_summary`, quyền ghi annotation (scope `write`) để ghi lại việc đã triển khai | |
 

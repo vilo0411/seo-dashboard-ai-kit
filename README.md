@@ -30,7 +30,9 @@ Chi tiết cho từng client có trong [INSTALL.md](INSTALL.md).
 | | |
 |---|---|
 | `plugins/seo-dashboard/.mcp.json` | Kết nối MCP tới dashboard (OAuth, không cần token) |
-| `plugins/seo-dashboard/skills/` | Các skill `seodash-*` |
+| `plugins/seo-dashboard/skills/` | Các skill `seodash-*`: `core`, `diagnose`, `opportunities`, `roadmap` (đang mở rộng, xem kế hoạch) |
+| `plugins/seo-dashboard/commands/` | Lệnh tắt Claude Code: `/seo-why`, `/seo-wins`, `/seo-plan` |
+| `tools.txt`, `scripts/check-tool-names.py` | Danh sách tool của MCP; CI báo lỗi nếu skill nhắc tool không tồn tại |
 | `docs/SKILLS_PLAN.md` | Kế hoạch và mô tả chi tiết bộ skill |
 
 ## Cập nhật
